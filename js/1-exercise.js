@@ -1,0 +1,1 @@
+console.log("Hello World!"); // Display a message on the console
